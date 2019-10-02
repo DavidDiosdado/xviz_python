@@ -1,0 +1,1 @@
+{"type": "xviz/state_update", "data": {"update_type": "snapshot", "updates": [{"timestamp": 1000.2, "poses": {"/vehicle_pose": {"timestamp": 1000.2, "map_origin": {"longitude": -122.4, "latitude": 37.8, "altitude": 0}, "orientation": [0, 0, 0]}}, "primitives": {"/object/shape": {"polygons": []}}}]}}

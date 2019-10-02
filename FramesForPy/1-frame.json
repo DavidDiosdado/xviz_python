@@ -1,0 +1,34 @@
+{
+	"type": "xviz/metadata",
+	"data":
+	{
+		"version": "2.0.0",
+		"streams": 
+		{
+			"/vehicle_pose":
+			{
+				"category": "pose"
+			},
+
+			"/object/shape": 
+			{
+				"category": "PRIMITIVE",
+				"coordinate": "VEHICLE_RELATIVE",
+				"stream_style":
+				{
+					"fill_color": "#fb0",
+					"height": 1.5,
+					"extruded": true
+				},
+				"primitive_type": "POLYGON"
+			}	
+
+
+    		},
+    		"log_info": 
+		{
+      			"start_time": 1000,
+      			"end_time": 1001.2
+    		}
+  	}
+}
